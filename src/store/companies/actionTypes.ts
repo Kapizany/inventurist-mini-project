@@ -1,0 +1,6 @@
+export enum CompaniesTypes {
+    GET_COMPANIES = 'companies/GET_COMPANIES',
+    GET_COMPANIES_SUCCESS = 'companies/GET_COMPANIES_SUCCESS',
+    GET_COMPANIES_FAILURE = 'companies/GET_COMPANIES_FAILURE',
+    RESET_COMPANIES = 'companies/RESET_COMPANIES',
+}
